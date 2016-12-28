@@ -1,0 +1,3 @@
+[submodule "apps/SayMyNumber"]
+	path = apps/SayMyNumber
+	url = https://github.com/nutkracker/SayMyNumber.git
