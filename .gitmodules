@@ -1,3 +1,6 @@
 [submodule "apps/SayMyNumber"]
 	path = apps/SayMyNumber
 	url = https://github.com/nutkracker/SayMyNumber.git
+[submodule "apps/WhosTurnIsIt"]
+	path = apps/WhosTurnIsIt
+	url = https://github.com/nutkracker/WhosTurnIsIt.git
